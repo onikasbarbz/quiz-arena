@@ -1,0 +1,21 @@
+# Compiled output
+out/
+*.class
+
+# IDE files
+.idea/
+*.iml
+.eclipse/
+.vscode/
+*.project
+*.classpath
+*.settings/
+
+# macOS
+.DS_Store
+
+# JDBC driver (add your own)
+*.jar
+
+# Logs
+*.log
