@@ -1,4 +1,4 @@
-# Quiz Arena 🎯
+# Quiz Arena 
 
 A desktop quiz game I built to get more comfortable with Java Swing and database-driven applications. Players compete across multiple rounds, earn scores, and can see how they rank against others on a leaderboard. There's also a separate admin side where you can manage the question bank.
 
